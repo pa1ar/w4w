@@ -1,0 +1,6968 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.80617,
+            59.443256
+          ],
+          [
+            24.806112,
+            59.44326
+          ],
+          [
+            24.806059,
+            59.443264
+          ],
+          [
+            24.806013,
+            59.443264
+          ],
+          [
+            24.805971,
+            59.44327
+          ],
+          [
+            24.805933,
+            59.44328
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.926,
+        "avg_speed_kmh": 3.2,
+        "z_std_mg": 67.5,
+        "distance_m": 13.8,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.8059,
+            59.443287
+          ],
+          [
+            24.805882,
+            59.4433
+          ],
+          [
+            24.805876,
+            59.44331
+          ],
+          [
+            24.805874,
+            59.44332
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.95,
+        "avg_speed_kmh": 2.1,
+        "z_std_mg": 147.5,
+        "distance_m": 4.0,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.806358,
+            59.443462
+          ],
+          [
+            24.80638,
+            59.44347
+          ],
+          [
+            24.806398,
+            59.44347
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.2,
+        "z_std_mg": 68.6,
+        "distance_m": 2.5,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.806492,
+            59.44355
+          ],
+          [
+            24.806437,
+            59.44366
+          ],
+          [
+            24.8064,
+            59.443718
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.7,
+        "avg_speed_kmh": 8.4,
+        "z_std_mg": 296.0,
+        "distance_m": 19.4,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.80611,
+            59.44412
+          ],
+          [
+            24.806087,
+            59.444183
+          ],
+          [
+            24.80607,
+            59.44425
+          ],
+          [
+            24.806032,
+            59.44437
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.7,
+        "avg_speed_kmh": 8.1,
+        "z_std_mg": 146.7,
+        "distance_m": 28.2,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.805984,
+            59.444458
+          ],
+          [
+            24.805946,
+            59.44449
+          ],
+          [
+            24.805895,
+            59.444515
+          ],
+          [
+            24.805841,
+            59.444542
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.957,
+        "avg_speed_kmh": 5.0,
+        "z_std_mg": 119.3,
+        "distance_m": 12.4,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.805792,
+            59.444572
+          ],
+          [
+            24.805752,
+            59.444607
+          ],
+          [
+            24.805712,
+            59.444637
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.896,
+        "avg_speed_kmh": 4.9,
+        "z_std_mg": 91.5,
+        "distance_m": 8.5,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.805676,
+            59.444668
+          ],
+          [
+            24.805637,
+            59.444702
+          ],
+          [
+            24.8056,
+            59.444736
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.94,
+        "avg_speed_kmh": 5.2,
+        "z_std_mg": 118.2,
+        "distance_m": 8.7,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.80535,
+            59.444923
+          ],
+          [
+            24.805283,
+            59.444942
+          ],
+          [
+            24.805216,
+            59.44496
+          ],
+          [
+            24.805145,
+            59.44498
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.989,
+        "avg_speed_kmh": 5.3,
+        "z_std_mg": 131.8,
+        "distance_m": 13.2,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.804914,
+            59.445053
+          ],
+          [
+            24.804863,
+            59.445072
+          ],
+          [
+            24.804811,
+            59.445087
+          ],
+          [
+            24.80476,
+            59.4451
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 122.3,
+        "distance_m": 10.2,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.804552,
+            59.44515
+          ],
+          [
+            24.804516,
+            59.44516
+          ],
+          [
+            24.80448,
+            59.44517
+          ],
+          [
+            24.804401,
+            59.445194
+          ],
+          [
+            24.80436,
+            59.445206
+          ],
+          [
+            24.804321,
+            59.445213
+          ],
+          [
+            24.804287,
+            59.44522
+          ],
+          [
+            24.804253,
+            59.44523
+          ],
+          [
+            24.804214,
+            59.445232
+          ],
+          [
+            24.804176,
+            59.445244
+          ],
+          [
+            24.804138,
+            59.44525
+          ],
+          [
+            24.804096,
+            59.445255
+          ],
+          [
+            24.804056,
+            59.445263
+          ],
+          [
+            24.804018,
+            59.445267
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.978,
+        "avg_speed_kmh": 2.9,
+        "z_std_mg": 76.0,
+        "distance_m": 33.2,
+        "sample_count": 14,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.803982,
+            59.445267
+          ],
+          [
+            24.80395,
+            59.44526
+          ],
+          [
+            24.803919,
+            59.44525
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.863,
+        "avg_speed_kmh": 2.6,
+        "z_std_mg": 107.3,
+        "distance_m": 4.0,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.80388,
+            59.445248
+          ],
+          [
+            24.803843,
+            59.44525
+          ],
+          [
+            24.803804,
+            59.44526
+          ],
+          [
+            24.803774,
+            59.44527
+          ],
+          [
+            24.80375,
+            59.44529
+          ],
+          [
+            24.803726,
+            59.445305
+          ],
+          [
+            24.8037,
+            59.445324
+          ],
+          [
+            24.803669,
+            59.44534
+          ],
+          [
+            24.803637,
+            59.44535
+          ],
+          [
+            24.803602,
+            59.445362
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 2.8,
+        "z_std_mg": 72.7,
+        "distance_m": 20.9,
+        "sample_count": 10,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.803532,
+            59.445377
+          ],
+          [
+            24.8035,
+            59.44539
+          ],
+          [
+            24.803463,
+            59.445396
+          ],
+          [
+            24.803429,
+            59.445404
+          ],
+          [
+            24.803392,
+            59.44541
+          ],
+          [
+            24.803358,
+            59.445423
+          ],
+          [
+            24.803322,
+            59.445427
+          ],
+          [
+            24.803286,
+            59.445435
+          ],
+          [
+            24.803247,
+            59.445442
+          ],
+          [
+            24.803207,
+            59.445454
+          ],
+          [
+            24.80312,
+            59.445477
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.953,
+        "avg_speed_kmh": 2.9,
+        "z_std_mg": 77.4,
+        "distance_m": 26.0,
+        "sample_count": 11,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.802914,
+            59.44552
+          ],
+          [
+            24.802855,
+            59.445534
+          ],
+          [
+            24.802794,
+            59.445545
+          ],
+          [
+            24.802729,
+            59.445553
+          ],
+          [
+            24.80266,
+            59.44556
+          ],
+          [
+            24.80259,
+            59.445564
+          ],
+          [
+            24.80252,
+            59.445576
+          ],
+          [
+            24.802456,
+            59.445595
+          ],
+          [
+            24.802391,
+            59.445618
+          ],
+          [
+            24.802324,
+            59.445633
+          ],
+          [
+            24.802252,
+            59.445633
+          ],
+          [
+            24.802177,
+            59.44562
+          ],
+          [
+            24.802113,
+            59.445602
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 5.3,
+        "z_std_mg": 145.9,
+        "distance_m": 48.7,
+        "sample_count": 13,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.802048,
+            59.445538
+          ],
+          [
+            24.802015,
+            59.445503
+          ],
+          [
+            24.801987,
+            59.44547
+          ],
+          [
+            24.801958,
+            59.445442
+          ],
+          [
+            24.80194,
+            59.445408
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.943,
+        "avg_speed_kmh": 4.6,
+        "z_std_mg": 137.6,
+        "distance_m": 15.7,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801897,
+            59.44535
+          ],
+          [
+            24.801876,
+            59.445324
+          ],
+          [
+            24.801857,
+            59.445297
+          ],
+          [
+            24.801836,
+            59.445274
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.2,
+        "z_std_mg": 157.9,
+        "distance_m": 9.1,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801792,
+            59.44522
+          ],
+          [
+            24.801783,
+            59.445206
+          ],
+          [
+            24.801771,
+            59.445194
+          ],
+          [
+            24.801762,
+            59.445183
+          ],
+          [
+            24.801754,
+            59.445175
+          ],
+          [
+            24.801746,
+            59.445164
+          ],
+          [
+            24.801735,
+            59.44515
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.818,
+        "avg_speed_kmh": 1.8,
+        "z_std_mg": 157.0,
+        "distance_m": 8.4,
+        "sample_count": 7,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801722,
+            59.445137
+          ],
+          [
+            24.80173,
+            59.445126
+          ],
+          [
+            24.801746,
+            59.445126
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.933,
+        "avg_speed_kmh": 2.4,
+        "z_std_mg": 246.2,
+        "distance_m": 2.2,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801811,
+            59.445187
+          ],
+          [
+            24.801836,
+            59.445217
+          ],
+          [
+            24.80186,
+            59.445255
+          ],
+          [
+            24.801893,
+            59.44529
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 5.4,
+        "z_std_mg": 153.5,
+        "distance_m": 12.4,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801962,
+            59.445366
+          ],
+          [
+            24.801992,
+            59.4454
+          ],
+          [
+            24.802048,
+            59.445465
+          ],
+          [
+            24.802063,
+            59.445496
+          ],
+          [
+            24.802044,
+            59.445522
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.952,
+        "avg_speed_kmh": 4.7,
+        "z_std_mg": 136.2,
+        "distance_m": 18.7,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.80195,
+            59.445568
+          ],
+          [
+            24.801933,
+            59.4456
+          ],
+          [
+            24.801954,
+            59.44563
+          ],
+          [
+            24.801958,
+            59.445663
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 5.2,
+        "z_std_mg": 136.1,
+        "distance_m": 10.9,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801846,
+            59.4457
+          ],
+          [
+            24.801702,
+            59.44572
+          ],
+          [
+            24.801636,
+            59.445732
+          ],
+          [
+            24.801569,
+            59.445724
+          ],
+          [
+            24.801502,
+            59.445717
+          ],
+          [
+            24.801432,
+            59.445713
+          ],
+          [
+            24.801365,
+            59.445713
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.975,
+        "avg_speed_kmh": 4.9,
+        "z_std_mg": 124.3,
+        "distance_m": 27.9,
+        "sample_count": 7,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801256,
+            59.445713
+          ],
+          [
+            24.801178,
+            59.44572
+          ],
+          [
+            24.801151,
+            59.445717
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 2.5,
+        "z_std_mg": 121.7,
+        "distance_m": 6.0,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801138,
+            59.445705
+          ],
+          [
+            24.801125,
+            59.445698
+          ],
+          [
+            24.801077,
+            59.445694
+          ],
+          [
+            24.80105,
+            59.445713
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.81,
+        "avg_speed_kmh": 2.8,
+        "z_std_mg": 76.7,
+        "distance_m": 6.4,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801046,
+            59.445744
+          ],
+          [
+            24.801058,
+            59.445774
+          ],
+          [
+            24.801064,
+            59.44581
+          ],
+          [
+            24.801071,
+            59.445843
+          ],
+          [
+            24.801086,
+            59.44588
+          ],
+          [
+            24.801113,
+            59.445915
+          ],
+          [
+            24.80114,
+            59.445953
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.961,
+        "avg_speed_kmh": 5.1,
+        "z_std_mg": 140.3,
+        "distance_m": 24.0,
+        "sample_count": 7,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801216,
+            59.446068
+          ],
+          [
+            24.801231,
+            59.446148
+          ],
+          [
+            24.801254,
+            59.44619
+          ],
+          [
+            24.801394,
+            59.446297
+          ],
+          [
+            24.801453,
+            59.446327
+          ],
+          [
+            24.801502,
+            59.446358
+          ],
+          [
+            24.801544,
+            59.44639
+          ],
+          [
+            24.801579,
+            59.446415
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.963,
+        "avg_speed_kmh": 5.3,
+        "z_std_mg": 140.6,
+        "distance_m": 44.9,
+        "sample_count": 8,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801662,
+            59.446453
+          ],
+          [
+            24.801702,
+            59.44645
+          ],
+          [
+            24.801739,
+            59.44644
+          ],
+          [
+            24.801754,
+            59.44645
+          ],
+          [
+            24.801748,
+            59.446457
+          ],
+          [
+            24.801699,
+            59.446495
+          ],
+          [
+            24.80171,
+            59.446518
+          ],
+          [
+            24.801746,
+            59.446537
+          ],
+          [
+            24.80179,
+            59.446556
+          ],
+          [
+            24.80184,
+            59.446583
+          ],
+          [
+            24.801897,
+            59.44661
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.945,
+        "avg_speed_kmh": 3.6,
+        "z_std_mg": 146.0,
+        "distance_m": 29.3,
+        "sample_count": 11,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.802359,
+            59.446896
+          ],
+          [
+            24.802404,
+            59.446926
+          ],
+          [
+            24.80245,
+            59.44696
+          ],
+          [
+            24.802567,
+            59.44702
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.85,
+        "avg_speed_kmh": 6.1,
+        "z_std_mg": 232.5,
+        "distance_m": 18.2,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.802624,
+            59.447063
+          ],
+          [
+            24.802687,
+            59.4471
+          ],
+          [
+            24.802746,
+            59.447136
+          ],
+          [
+            24.8028,
+            59.447163
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.843,
+        "avg_speed_kmh": 5.7,
+        "z_std_mg": 165.3,
+        "distance_m": 14.9,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.802654,
+            59.447205
+          ],
+          [
+            24.802559,
+            59.447186
+          ],
+          [
+            24.802458,
+            59.44717
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.7,
+        "avg_speed_kmh": 7.3,
+        "z_std_mg": 236.6,
+        "distance_m": 11.8,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.80237,
+            59.447147
+          ],
+          [
+            24.802225,
+            59.447086
+          ],
+          [
+            24.802149,
+            59.44705
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.7,
+        "avg_speed_kmh": 7.5,
+        "z_std_mg": 131.3,
+        "distance_m": 16.5,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801308,
+            59.4467
+          ],
+          [
+            24.801256,
+            59.446682
+          ],
+          [
+            24.801207,
+            59.446663
+          ],
+          [
+            24.801159,
+            59.446644
+          ],
+          [
+            24.801119,
+            59.44662
+          ],
+          [
+            24.801046,
+            59.44658
+          ],
+          [
+            24.801018,
+            59.44656
+          ],
+          [
+            24.800995,
+            59.446537
+          ],
+          [
+            24.800976,
+            59.446514
+          ],
+          [
+            24.800959,
+            59.446495
+          ],
+          [
+            24.800934,
+            59.446465
+          ],
+          [
+            24.800909,
+            59.446438
+          ],
+          [
+            24.800886,
+            59.446423
+          ],
+          [
+            24.800816,
+            59.446384
+          ],
+          [
+            24.800772,
+            59.446365
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.953,
+        "avg_speed_kmh": 3.5,
+        "z_std_mg": 78.0,
+        "distance_m": 48.9,
+        "sample_count": 15,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.800682,
+            59.44632
+          ],
+          [
+            24.800634,
+            59.446297
+          ],
+          [
+            24.800589,
+            59.446274
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.2,
+        "z_std_mg": 85.0,
+        "distance_m": 7.3,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.80059,
+            59.44611
+          ],
+          [
+            24.800589,
+            59.446083
+          ],
+          [
+            24.80058,
+            59.446053
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 331.8,
+        "distance_m": 6.4,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.800552,
+            59.446026
+          ],
+          [
+            24.800507,
+            59.446
+          ],
+          [
+            24.800459,
+            59.445976
+          ],
+          [
+            24.800407,
+            59.44595
+          ],
+          [
+            24.800358,
+            59.445927
+          ],
+          [
+            24.800306,
+            59.445904
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.6,
+        "z_std_mg": 167.3,
+        "distance_m": 19.4,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.800175,
+            59.44584
+          ],
+          [
+            24.800137,
+            59.445816
+          ],
+          [
+            24.800097,
+            59.445797
+          ],
+          [
+            24.800018,
+            59.44576
+          ],
+          [
+            24.799942,
+            59.445724
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.969,
+        "avg_speed_kmh": 3.7,
+        "z_std_mg": 137.2,
+        "distance_m": 18.5,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799807,
+            59.445663
+          ],
+          [
+            24.799782,
+            59.44565
+          ],
+          [
+            24.79975,
+            59.44563
+          ],
+          [
+            24.799704,
+            59.445606
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.952,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 222.3,
+        "distance_m": 8.6,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79965,
+            59.445583
+          ],
+          [
+            24.799593,
+            59.44556
+          ],
+          [
+            24.799534,
+            59.445538
+          ],
+          [
+            24.799475,
+            59.445515
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 5.4,
+        "z_std_mg": 156.1,
+        "distance_m": 12.5,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799356,
+            59.445465
+          ],
+          [
+            24.799294,
+            59.44544
+          ],
+          [
+            24.799162,
+            59.445385
+          ],
+          [
+            24.799105,
+            59.44536
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.884,
+        "avg_speed_kmh": 5.6,
+        "z_std_mg": 129.6,
+        "distance_m": 18.4,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798996,
+            59.44531
+          ],
+          [
+            24.798944,
+            59.44529
+          ],
+          [
+            24.798895,
+            59.445267
+          ],
+          [
+            24.79885,
+            59.445248
+          ],
+          [
+            24.798807,
+            59.445232
+          ],
+          [
+            24.798769,
+            59.445213
+          ],
+          [
+            24.798735,
+            59.445198
+          ],
+          [
+            24.798704,
+            59.44518
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.96,
+        "avg_speed_kmh": 3.8,
+        "z_std_mg": 76.2,
+        "distance_m": 22.0,
+        "sample_count": 8,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798502,
+            59.445053
+          ],
+          [
+            24.798454,
+            59.445023
+          ],
+          [
+            24.79841,
+            59.444992
+          ],
+          [
+            24.798368,
+            59.444965
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.863,
+        "avg_speed_kmh": 4.9,
+        "z_std_mg": 143.0,
+        "distance_m": 12.4,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798328,
+            59.44494
+          ],
+          [
+            24.798286,
+            59.444912
+          ],
+          [
+            24.798244,
+            59.44489
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.3,
+        "z_std_mg": 73.5,
+        "distance_m": 7.3,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798069,
+            59.444775
+          ],
+          [
+            24.798038,
+            59.44475
+          ],
+          [
+            24.798012,
+            59.444733
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.4,
+        "z_std_mg": 64.1,
+        "distance_m": 5.7,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.797956,
+            59.444695
+          ],
+          [
+            24.797928,
+            59.444675
+          ],
+          [
+            24.797873,
+            59.44464
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.3,
+        "z_std_mg": 72.0,
+        "distance_m": 7.7,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.797804,
+            59.4446
+          ],
+          [
+            24.797768,
+            59.444576
+          ],
+          [
+            24.797733,
+            59.444553
+          ],
+          [
+            24.797699,
+            59.44453
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 73.7,
+        "distance_m": 9.8,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79763,
+            59.44449
+          ],
+          [
+            24.797598,
+            59.444466
+          ],
+          [
+            24.797565,
+            59.444447
+          ],
+          [
+            24.797533,
+            59.44443
+          ],
+          [
+            24.797506,
+            59.444412
+          ],
+          [
+            24.797478,
+            59.444393
+          ],
+          [
+            24.797445,
+            59.444374
+          ],
+          [
+            24.79741,
+            59.44435
+          ],
+          [
+            24.79737,
+            59.44433
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.968,
+        "avg_speed_kmh": 3.9,
+        "z_std_mg": 81.4,
+        "distance_m": 23.1,
+        "sample_count": 9,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.797285,
+            59.44427
+          ],
+          [
+            24.797245,
+            59.444244
+          ],
+          [
+            24.797205,
+            59.444218
+          ],
+          [
+            24.797161,
+            59.44419
+          ],
+          [
+            24.79712,
+            59.444168
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.972,
+        "avg_speed_kmh": 4.8,
+        "z_std_mg": 125.1,
+        "distance_m": 14.7,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.797077,
+            59.444145
+          ],
+          [
+            24.797028,
+            59.44412
+          ],
+          [
+            24.79698,
+            59.44409
+          ],
+          [
+            24.796936,
+            59.444065
+          ],
+          [
+            24.79689,
+            59.444035
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.982,
+        "avg_speed_kmh": 5.1,
+        "z_std_mg": 77.3,
+        "distance_m": 16.2,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796835,
+            59.444004
+          ],
+          [
+            24.796738,
+            59.443935
+          ],
+          [
+            24.796703,
+            59.443897
+          ],
+          [
+            24.796673,
+            59.443863
+          ],
+          [
+            24.796652,
+            59.44383
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.829,
+        "avg_speed_kmh": 5.2,
+        "z_std_mg": 119.5,
+        "distance_m": 22.1,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796644,
+            59.443798
+          ],
+          [
+            24.796635,
+            59.443768
+          ],
+          [
+            24.796625,
+            59.44374
+          ],
+          [
+            24.796637,
+            59.443645
+          ],
+          [
+            24.79665,
+            59.443623
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.6,
+        "z_std_mg": 70.0,
+        "distance_m": 19.7,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796665,
+            59.443596
+          ],
+          [
+            24.796658,
+            59.44356
+          ],
+          [
+            24.796623,
+            59.443535
+          ],
+          [
+            24.796577,
+            59.443512
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.978,
+        "avg_speed_kmh": 4.4,
+        "z_std_mg": 270.9,
+        "distance_m": 11.1,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796492,
+            59.443474
+          ],
+          [
+            24.796455,
+            59.44346
+          ],
+          [
+            24.796421,
+            59.443447
+          ],
+          [
+            24.796158,
+            59.443386
+          ],
+          [
+            24.79613,
+            59.443375
+          ],
+          [
+            24.79608,
+            59.443367
+          ],
+          [
+            24.79602,
+            59.443356
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.993,
+        "avg_speed_kmh": 3.4,
+        "z_std_mg": 71.9,
+        "distance_m": 29.9,
+        "sample_count": 7,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79597,
+            59.44334
+          ],
+          [
+            24.795944,
+            59.443317
+          ],
+          [
+            24.795946,
+            59.443283
+          ],
+          [
+            24.795963,
+            59.44325
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.9,
+        "z_std_mg": 256.5,
+        "distance_m": 10.5,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796062,
+            59.443012
+          ],
+          [
+            24.796074,
+            59.442944
+          ],
+          [
+            24.796064,
+            59.44291
+          ],
+          [
+            24.796038,
+            59.442875
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 5.0,
+        "z_std_mg": 285.4,
+        "distance_m": 15.6,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796005,
+            59.44284
+          ],
+          [
+            24.795969,
+            59.442802
+          ],
+          [
+            24.795933,
+            59.442764
+          ],
+          [
+            24.795902,
+            59.442734
+          ],
+          [
+            24.795877,
+            59.442703
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.88,
+        "avg_speed_kmh": 5.0,
+        "z_std_mg": 480.8,
+        "distance_m": 16.9,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.795841,
+            59.442657
+          ],
+          [
+            24.795824,
+            59.442642
+          ],
+          [
+            24.795813,
+            59.442623
+          ],
+          [
+            24.795795,
+            59.442604
+          ],
+          [
+            24.795776,
+            59.442585
+          ],
+          [
+            24.795763,
+            59.442566
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.989,
+        "avg_speed_kmh": 3.3,
+        "z_std_mg": 284.3,
+        "distance_m": 11.1,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.795752,
+            59.442547
+          ],
+          [
+            24.795744,
+            59.44254
+          ],
+          [
+            24.79574,
+            59.442528
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.782,
+        "avg_speed_kmh": 1.8,
+        "z_std_mg": 170.8,
+        "distance_m": 2.3,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.795694,
+            59.442486
+          ],
+          [
+            24.795675,
+            59.44247
+          ],
+          [
+            24.79566,
+            59.442455
+          ],
+          [
+            24.795645,
+            59.442444
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.95,
+        "avg_speed_kmh": 2.1,
+        "z_std_mg": 279.4,
+        "distance_m": 5.4,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.795616,
+            59.442425
+          ],
+          [
+            24.795597,
+            59.44241
+          ],
+          [
+            24.795572,
+            59.44239
+          ],
+          [
+            24.795551,
+            59.442368
+          ],
+          [
+            24.795534,
+            59.44235
+          ],
+          [
+            24.79552,
+            59.442333
+          ],
+          [
+            24.795515,
+            59.442318
+          ],
+          [
+            24.795513,
+            59.4423
+          ],
+          [
+            24.795517,
+            59.442276
+          ],
+          [
+            24.795525,
+            59.442253
+          ],
+          [
+            24.79553,
+            59.44223
+          ],
+          [
+            24.795534,
+            59.442207
+          ],
+          [
+            24.795546,
+            59.442184
+          ],
+          [
+            24.795567,
+            59.442165
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 2.9,
+        "z_std_mg": 282.2,
+        "distance_m": 30.8,
+        "sample_count": 14,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.795914,
+            59.441998
+          ],
+          [
+            24.795963,
+            59.44197
+          ],
+          [
+            24.79601,
+            59.441944
+          ],
+          [
+            24.796051,
+            59.441914
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 5.1,
+        "z_std_mg": 305.3,
+        "distance_m": 12.2,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796219,
+            59.44167
+          ],
+          [
+            24.796198,
+            59.44165
+          ],
+          [
+            24.796185,
+            59.441635
+          ],
+          [
+            24.796183,
+            59.44162
+          ],
+          [
+            24.7962,
+            59.441616
+          ],
+          [
+            24.79622,
+            59.44163
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.9,
+        "avg_speed_kmh": 1.8,
+        "z_std_mg": 302.5,
+        "distance_m": 9.0,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796316,
+            59.441643
+          ],
+          [
+            24.796354,
+            59.44164
+          ],
+          [
+            24.796389,
+            59.44163
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.965,
+        "avg_speed_kmh": 3.6,
+        "z_std_mg": 305.9,
+        "distance_m": 4.4,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796503,
+            59.441563
+          ],
+          [
+            24.796515,
+            59.441536
+          ],
+          [
+            24.796532,
+            59.441505
+          ],
+          [
+            24.796549,
+            59.44147
+          ],
+          [
+            24.79657,
+            59.44144
+          ],
+          [
+            24.796598,
+            59.44141
+          ],
+          [
+            24.796635,
+            59.441383
+          ],
+          [
+            24.796673,
+            59.441357
+          ],
+          [
+            24.796707,
+            59.441334
+          ],
+          [
+            24.796736,
+            59.441303
+          ],
+          [
+            24.796766,
+            59.441273
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.3,
+        "z_std_mg": 617.6,
+        "distance_m": 35.9,
+        "sample_count": 11,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796635,
+            59.44118
+          ],
+          [
+            24.796576,
+            59.441166
+          ],
+          [
+            24.796515,
+            59.441143
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 5.1,
+        "z_std_mg": 598.1,
+        "distance_m": 8.0,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7962,
+            59.441036
+          ],
+          [
+            24.796139,
+            59.441017
+          ],
+          [
+            24.796078,
+            59.440994
+          ],
+          [
+            24.796022,
+            59.44097
+          ],
+          [
+            24.795973,
+            59.440952
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.943,
+        "avg_speed_kmh": 4.8,
+        "z_std_mg": 457.3,
+        "distance_m": 15.9,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.795822,
+            59.44085
+          ],
+          [
+            24.795835,
+            59.44084
+          ],
+          [
+            24.79585,
+            59.440834
+          ],
+          [
+            24.795866,
+            59.440826
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.7,
+        "z_std_mg": 159.2,
+        "distance_m": 3.7,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.795969,
+            59.440777
+          ],
+          [
+            24.796003,
+            59.44076
+          ],
+          [
+            24.796038,
+            59.440746
+          ],
+          [
+            24.796074,
+            59.440727
+          ],
+          [
+            24.796114,
+            59.440704
+          ],
+          [
+            24.796154,
+            59.440678
+          ],
+          [
+            24.796185,
+            59.44065
+          ],
+          [
+            24.796215,
+            59.440628
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 279.7,
+        "distance_m": 21.8,
+        "sample_count": 8,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796244,
+            59.440598
+          ],
+          [
+            24.796282,
+            59.44059
+          ],
+          [
+            24.796305,
+            59.44059
+          ],
+          [
+            24.796314,
+            59.440598
+          ],
+          [
+            24.79636,
+            59.44062
+          ],
+          [
+            24.796392,
+            59.44063
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.9,
+        "avg_speed_kmh": 2.1,
+        "z_std_mg": 142.8,
+        "distance_m": 10.3,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796505,
+            59.44067
+          ],
+          [
+            24.79654,
+            59.44068
+          ],
+          [
+            24.796568,
+            59.44069
+          ],
+          [
+            24.796598,
+            59.4407
+          ],
+          [
+            24.796658,
+            59.440727
+          ],
+          [
+            24.796726,
+            59.440746
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.955,
+        "avg_speed_kmh": 3.3,
+        "z_std_mg": 140.3,
+        "distance_m": 15.1,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796799,
+            59.440765
+          ],
+          [
+            24.796835,
+            59.440777
+          ],
+          [
+            24.79687,
+            59.440784
+          ],
+          [
+            24.796906,
+            59.4408
+          ],
+          [
+            24.796946,
+            59.44081
+          ],
+          [
+            24.796988,
+            59.440826
+          ],
+          [
+            24.797073,
+            59.44085
+          ],
+          [
+            24.79712,
+            59.44087
+          ],
+          [
+            24.797165,
+            59.440884
+          ],
+          [
+            24.79721,
+            59.440903
+          ],
+          [
+            24.797258,
+            59.44092
+          ],
+          [
+            24.797365,
+            59.440964
+          ],
+          [
+            24.797419,
+            59.44098
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.977,
+        "avg_speed_kmh": 4.2,
+        "z_std_mg": 164.3,
+        "distance_m": 42.6,
+        "sample_count": 13,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.797834,
+            59.441116
+          ],
+          [
+            24.797882,
+            59.441135
+          ],
+          [
+            24.797932,
+            59.441154
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.961,
+        "avg_speed_kmh": 3.9,
+        "z_std_mg": 166.9,
+        "distance_m": 7.0,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798018,
+            59.441185
+          ],
+          [
+            24.798056,
+            59.4412
+          ],
+          [
+            24.79809,
+            59.44121
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.956,
+        "avg_speed_kmh": 3.2,
+        "z_std_mg": 165.4,
+        "distance_m": 4.9,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798244,
+            59.44127
+          ],
+          [
+            24.798277,
+            59.441277
+          ],
+          [
+            24.79831,
+            59.441288
+          ],
+          [
+            24.798332,
+            59.441296
+          ],
+          [
+            24.798359,
+            59.441307
+          ],
+          [
+            24.798384,
+            59.44132
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.933,
+        "avg_speed_kmh": 2.1,
+        "z_std_mg": 149.4,
+        "distance_m": 9.8,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798508,
+            59.44136
+          ],
+          [
+            24.798557,
+            59.441383
+          ],
+          [
+            24.798567,
+            59.441387
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.4,
+        "z_std_mg": 137.7,
+        "distance_m": 4.5,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798578,
+            59.4414
+          ],
+          [
+            24.79859,
+            59.44141
+          ],
+          [
+            24.798603,
+            59.44142
+          ],
+          [
+            24.798624,
+            59.441433
+          ],
+          [
+            24.798643,
+            59.441444
+          ],
+          [
+            24.798656,
+            59.441452
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.867,
+        "avg_speed_kmh": 1.8,
+        "z_std_mg": 325.1,
+        "distance_m": 7.3,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798685,
+            59.441467
+          ],
+          [
+            24.79871,
+            59.441483
+          ],
+          [
+            24.798725,
+            59.44149
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.3,
+        "z_std_mg": 306.8,
+        "distance_m": 3.4,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798754,
+            59.4415
+          ],
+          [
+            24.798765,
+            59.441505
+          ],
+          [
+            24.798775,
+            59.441513
+          ],
+          [
+            24.79879,
+            59.441517
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.2,
+        "z_std_mg": 227.3,
+        "distance_m": 2.8,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79881,
+            59.44153
+          ],
+          [
+            24.798828,
+            59.441536
+          ],
+          [
+            24.798847,
+            59.441547
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.9,
+        "z_std_mg": 567.0,
+        "distance_m": 2.8,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799192,
+            59.441772
+          ],
+          [
+            24.799212,
+            59.441784
+          ],
+          [
+            24.799232,
+            59.441795
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.768,
+        "avg_speed_kmh": 1.9,
+        "z_std_mg": 314.4,
+        "distance_m": 3.4,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799292,
+            59.441833
+          ],
+          [
+            24.79931,
+            59.441845
+          ],
+          [
+            24.79933,
+            59.44186
+          ],
+          [
+            24.799358,
+            59.441887
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.85,
+        "avg_speed_kmh": 1.9,
+        "z_std_mg": 233.8,
+        "distance_m": 7.1,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79939,
+            59.441914
+          ],
+          [
+            24.799406,
+            59.441933
+          ],
+          [
+            24.799433,
+            59.44195
+          ],
+          [
+            24.79947,
+            59.441975
+          ],
+          [
+            24.799513,
+            59.441998
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.5,
+        "z_std_mg": 292.9,
+        "distance_m": 11.7,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79955,
+            59.442013
+          ],
+          [
+            24.799572,
+            59.44202
+          ],
+          [
+            24.79959,
+            59.44202
+          ],
+          [
+            24.799606,
+            59.442024
+          ],
+          [
+            24.799627,
+            59.442028
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.3,
+        "z_std_mg": 154.8,
+        "distance_m": 4.8,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799635,
+            59.442017
+          ],
+          [
+            24.79962,
+            59.44202
+          ],
+          [
+            24.7996,
+            59.44202
+          ],
+          [
+            24.79958,
+            59.442017
+          ],
+          [
+            24.799547,
+            59.442005
+          ],
+          [
+            24.799507,
+            59.44199
+          ],
+          [
+            24.799467,
+            59.44197
+          ],
+          [
+            24.79943,
+            59.44195
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.95,
+        "avg_speed_kmh": 3.0,
+        "z_std_mg": 289.8,
+        "distance_m": 14.5,
+        "sample_count": 8,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799397,
+            59.44193
+          ],
+          [
+            24.799368,
+            59.44191
+          ],
+          [
+            24.799341,
+            59.441887
+          ],
+          [
+            24.79931,
+            59.441868
+          ],
+          [
+            24.799276,
+            59.44185
+          ],
+          [
+            24.799244,
+            59.44183
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.5,
+        "z_std_mg": 612.6,
+        "distance_m": 14.1,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79918,
+            59.441795
+          ],
+          [
+            24.799147,
+            59.441776
+          ],
+          [
+            24.799112,
+            59.441757
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.6,
+        "z_std_mg": 708.7,
+        "distance_m": 5.7,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799078,
+            59.441742
+          ],
+          [
+            24.799044,
+            59.44173
+          ],
+          [
+            24.799017,
+            59.441715
+          ],
+          [
+            24.798992,
+            59.441704
+          ],
+          [
+            24.798973,
+            59.44169
+          ],
+          [
+            24.79895,
+            59.44168
+          ],
+          [
+            24.798927,
+            59.441666
+          ],
+          [
+            24.798904,
+            59.441654
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.977,
+        "avg_speed_kmh": 2.6,
+        "z_std_mg": 347.8,
+        "distance_m": 14.0,
+        "sample_count": 8,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798851,
+            59.441624
+          ],
+          [
+            24.798824,
+            59.44161
+          ],
+          [
+            24.79879,
+            59.441578
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.933,
+        "avg_speed_kmh": 2.1,
+        "z_std_mg": 288.0,
+        "distance_m": 6.2,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798723,
+            59.441505
+          ],
+          [
+            24.798723,
+            59.441486
+          ],
+          [
+            24.798742,
+            59.441467
+          ],
+          [
+            24.79877,
+            59.441456
+          ],
+          [
+            24.79881,
+            59.44145
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.3,
+        "z_std_mg": 300.1,
+        "distance_m": 8.8,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799053,
+            59.441425
+          ],
+          [
+            24.79908,
+            59.44142
+          ],
+          [
+            24.799107,
+            59.44142
+          ],
+          [
+            24.799139,
+            59.441425
+          ],
+          [
+            24.799173,
+            59.44142
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.907,
+        "avg_speed_kmh": 2.4,
+        "z_std_mg": 293.5,
+        "distance_m": 7.0,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799438,
+            59.441395
+          ],
+          [
+            24.799473,
+            59.44139
+          ],
+          [
+            24.799513,
+            59.44139
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.933,
+        "avg_speed_kmh": 3.9,
+        "z_std_mg": 884.3,
+        "distance_m": 4.3,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79956,
+            59.441383
+          ],
+          [
+            24.799606,
+            59.44138
+          ],
+          [
+            24.799656,
+            59.441372
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.957,
+        "avg_speed_kmh": 4.1,
+        "z_std_mg": 361.0,
+        "distance_m": 5.6,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799923,
+            59.441315
+          ],
+          [
+            24.799992,
+            59.441296
+          ],
+          [
+            24.80012,
+            59.44126
+          ],
+          [
+            24.800217,
+            59.441242
+          ],
+          [
+            24.800222,
+            59.44125
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.6,
+        "z_std_mg": 288.0,
+        "distance_m": 19.5,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.800245,
+            59.44136
+          ],
+          [
+            24.800253,
+            59.441376
+          ],
+          [
+            24.800259,
+            59.441383
+          ],
+          [
+            24.800262,
+            59.441395
+          ],
+          [
+            24.800232,
+            59.441406
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.2,
+        "z_std_mg": 144.4,
+        "distance_m": 6.1,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.800207,
+            59.441395
+          ],
+          [
+            24.8002,
+            59.441387
+          ],
+          [
+            24.800194,
+            59.441372
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.8,
+        "z_std_mg": 333.3,
+        "distance_m": 2.7,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.800179,
+            59.44128
+          ],
+          [
+            24.80019,
+            59.441254
+          ],
+          [
+            24.800207,
+            59.441227
+          ],
+          [
+            24.800224,
+            59.441204
+          ],
+          [
+            24.800253,
+            59.441185
+          ],
+          [
+            24.800293,
+            59.441166
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.95,
+        "avg_speed_kmh": 4.7,
+        "z_std_mg": 298.6,
+        "distance_m": 14.6,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.800417,
+            59.441116
+          ],
+          [
+            24.800486,
+            59.44109
+          ],
+          [
+            24.800562,
+            59.441055
+          ],
+          [
+            24.80063,
+            59.441017
+          ],
+          [
+            24.800703,
+            59.440975
+          ],
+          [
+            24.800785,
+            59.440933
+          ],
+          [
+            24.800858,
+            59.44089
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.7,
+        "avg_speed_kmh": 7.7,
+        "z_std_mg": 307.0,
+        "distance_m": 35.5,
+        "sample_count": 7,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801033,
+            59.44076
+          ],
+          [
+            24.801071,
+            59.440712
+          ],
+          [
+            24.80111,
+            59.440662
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.7,
+        "avg_speed_kmh": 6.4,
+        "z_std_mg": 265.6,
+        "distance_m": 11.7,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801147,
+            59.440617
+          ],
+          [
+            24.801186,
+            59.440575
+          ],
+          [
+            24.801224,
+            59.44053
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.9,
+        "avg_speed_kmh": 5.8,
+        "z_std_mg": 165.3,
+        "distance_m": 10.6,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801256,
+            59.440495
+          ],
+          [
+            24.801281,
+            59.44046
+          ],
+          [
+            24.801294,
+            59.440434
+          ],
+          [
+            24.80131,
+            59.440407
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.944,
+        "avg_speed_kmh": 3.8,
+        "z_std_mg": 218.3,
+        "distance_m": 10.3,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801336,
+            59.44036
+          ],
+          [
+            24.801348,
+            59.440342
+          ],
+          [
+            24.801357,
+            59.440323
+          ],
+          [
+            24.801365,
+            59.440308
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.901,
+        "avg_speed_kmh": 2.2,
+        "z_std_mg": 256.1,
+        "distance_m": 6.0,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801424,
+            59.44023
+          ],
+          [
+            24.801466,
+            59.440224
+          ],
+          [
+            24.801521,
+            59.440224
+          ],
+          [
+            24.801582,
+            59.44022
+          ],
+          [
+            24.801723,
+            59.44022
+          ],
+          [
+            24.801802,
+            59.440216
+          ],
+          [
+            24.801878,
+            59.440216
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.971,
+        "avg_speed_kmh": 4.7,
+        "z_std_mg": 312.6,
+        "distance_m": 25.8,
+        "sample_count": 7,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.802109,
+            59.440228
+          ],
+          [
+            24.802181,
+            59.440228
+          ],
+          [
+            24.80225,
+            59.44023
+          ],
+          [
+            24.802309,
+            59.44024
+          ],
+          [
+            24.802368,
+            59.440247
+          ],
+          [
+            24.802422,
+            59.44025
+          ],
+          [
+            24.802467,
+            59.440254
+          ],
+          [
+            24.802513,
+            59.44026
+          ],
+          [
+            24.802557,
+            59.44027
+          ],
+          [
+            24.802591,
+            59.44027
+          ],
+          [
+            24.802458,
+            59.44018
+          ],
+          [
+            24.802404,
+            59.440163
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.958,
+        "avg_speed_kmh": 4.2,
+        "z_std_mg": 304.3,
+        "distance_m": 44.0,
+        "sample_count": 12,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801516,
+            59.439625
+          ],
+          [
+            24.801502,
+            59.439594
+          ],
+          [
+            24.80148,
+            59.439552
+          ],
+          [
+            24.801453,
+            59.439514
+          ],
+          [
+            24.80142,
+            59.439476
+          ],
+          [
+            24.80139,
+            59.43944
+          ],
+          [
+            24.801357,
+            59.439407
+          ],
+          [
+            24.801317,
+            59.439377
+          ],
+          [
+            24.801275,
+            59.439346
+          ],
+          [
+            24.801228,
+            59.439312
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 5.1,
+        "z_std_mg": 326.3,
+        "distance_m": 38.8,
+        "sample_count": 10,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.801132,
+            59.43926
+          ],
+          [
+            24.800884,
+            59.439156
+          ],
+          [
+            24.800833,
+            59.43913
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.3,
+        "z_std_mg": 332.2,
+        "distance_m": 22.3,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.800673,
+            59.439068
+          ],
+          [
+            24.800621,
+            59.439045
+          ],
+          [
+            24.80057,
+            59.439022
+          ],
+          [
+            24.800526,
+            59.439007
+          ],
+          [
+            24.800486,
+            59.438988
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.959,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 82.0,
+        "distance_m": 13.8,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.800447,
+            59.438972
+          ],
+          [
+            24.800415,
+            59.43896
+          ],
+          [
+            24.800383,
+            59.438946
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.924,
+        "avg_speed_kmh": 2.9,
+        "z_std_mg": 235.0,
+        "distance_m": 4.6,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799776,
+            59.4387
+          ],
+          [
+            24.79973,
+            59.438683
+          ],
+          [
+            24.79968,
+            59.438663
+          ],
+          [
+            24.799627,
+            59.438644
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.991,
+        "avg_speed_kmh": 4.5,
+        "z_std_mg": 137.5,
+        "distance_m": 10.5,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.799185,
+            59.43848
+          ],
+          [
+            24.799143,
+            59.43847
+          ],
+          [
+            24.799095,
+            59.43845
+          ],
+          [
+            24.799044,
+            59.438435
+          ],
+          [
+            24.798998,
+            59.43842
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 297.6,
+        "distance_m": 12.6,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.798658,
+            59.43828
+          ],
+          [
+            24.798607,
+            59.438263
+          ],
+          [
+            24.798552,
+            59.438248
+          ],
+          [
+            24.7985,
+            59.438232
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.928,
+        "avg_speed_kmh": 4.5,
+        "z_std_mg": 233.1,
+        "distance_m": 10.4,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79831,
+            59.43817
+          ],
+          [
+            24.798267,
+            59.43816
+          ],
+          [
+            24.798222,
+            59.438145
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.7,
+        "z_std_mg": 147.5,
+        "distance_m": 5.7,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.797972,
+            59.43807
+          ],
+          [
+            24.797924,
+            59.438057
+          ],
+          [
+            24.797873,
+            59.438046
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 158.9,
+        "distance_m": 6.2,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.797817,
+            59.43803
+          ],
+          [
+            24.797703,
+            59.438
+          ],
+          [
+            24.797647,
+            59.43799
+          ],
+          [
+            24.797594,
+            59.43798
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.95,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 85.8,
+        "distance_m": 13.8,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79734,
+            59.43797
+          ],
+          [
+            24.797285,
+            59.43797
+          ],
+          [
+            24.797234,
+            59.437973
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.8,
+        "z_std_mg": 147.1,
+        "distance_m": 6.0,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.797163,
+            59.437958
+          ],
+          [
+            24.797138,
+            59.43793
+          ],
+          [
+            24.797115,
+            59.437904
+          ],
+          [
+            24.797092,
+            59.437874
+          ],
+          [
+            24.797062,
+            59.437847
+          ],
+          [
+            24.797026,
+            59.437828
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.1,
+        "z_std_mg": 133.0,
+        "distance_m": 16.6,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796984,
+            59.437813
+          ],
+          [
+            24.796944,
+            59.4378
+          ],
+          [
+            24.796906,
+            59.43779
+          ],
+          [
+            24.796875,
+            59.43778
+          ],
+          [
+            24.796848,
+            59.437767
+          ],
+          [
+            24.796768,
+            59.43774
+          ],
+          [
+            24.796743,
+            59.43773
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.939,
+        "avg_speed_kmh": 2.9,
+        "z_std_mg": 71.5,
+        "distance_m": 16.5,
+        "sample_count": 7,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79645,
+            59.437595
+          ],
+          [
+            24.79639,
+            59.43757
+          ],
+          [
+            24.796335,
+            59.437546
+          ],
+          [
+            24.796286,
+            59.43752
+          ],
+          [
+            24.796247,
+            59.437492
+          ],
+          [
+            24.796206,
+            59.43747
+          ],
+          [
+            24.796167,
+            59.437447
+          ],
+          [
+            24.796133,
+            59.437424
+          ],
+          [
+            24.796103,
+            59.4374
+          ],
+          [
+            24.796074,
+            59.43738
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.93,
+        "avg_speed_kmh": 4.2,
+        "z_std_mg": 64.3,
+        "distance_m": 32.2,
+        "sample_count": 10,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796038,
+            59.437344
+          ],
+          [
+            24.79602,
+            59.437325
+          ],
+          [
+            24.796003,
+            59.437305
+          ],
+          [
+            24.795977,
+            59.4373
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 2.7,
+        "z_std_mg": 130.7,
+        "distance_m": 6.3,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.796206,
+            59.437428
+          ],
+          [
+            24.796244,
+            59.437466
+          ],
+          [
+            24.796259,
+            59.43748
+          ],
+          [
+            24.7961,
+            59.437378
+          ],
+          [
+            24.796057,
+            59.437363
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 0.84,
+        "avg_speed_kmh": 2.5,
+        "z_std_mg": 77.4,
+        "distance_m": 23.9,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.795984,
+            59.43733
+          ],
+          [
+            24.795938,
+            59.437313
+          ],
+          [
+            24.795887,
+            59.43731
+          ],
+          [
+            24.795837,
+            59.437313
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.9,
+        "z_std_mg": 339.6,
+        "distance_m": 9.0,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.795658,
+            59.437325
+          ],
+          [
+            24.795591,
+            59.43733
+          ],
+          [
+            24.79552,
+            59.43734
+          ],
+          [
+            24.795448,
+            59.437347
+          ],
+          [
+            24.795383,
+            59.43735
+          ],
+          [
+            24.795313,
+            59.437355
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.965,
+        "avg_speed_kmh": 4.8,
+        "z_std_mg": 347.9,
+        "distance_m": 19.8,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.795115,
+            59.437363
+          ],
+          [
+            24.79505,
+            59.437366
+          ],
+          [
+            24.794989,
+            59.43737
+          ],
+          [
+            24.79493,
+            59.437374
+          ],
+          [
+            24.794872,
+            59.437378
+          ],
+          [
+            24.794813,
+            59.437386
+          ],
+          [
+            24.794758,
+            59.437386
+          ],
+          [
+            24.794703,
+            59.43739
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.1,
+        "z_std_mg": 327.1,
+        "distance_m": 23.5,
+        "sample_count": 8,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79454,
+            59.437397
+          ],
+          [
+            24.79449,
+            59.437397
+          ],
+          [
+            24.794441,
+            59.4374
+          ],
+          [
+            24.794382,
+            59.43741
+          ],
+          [
+            24.794271,
+            59.437416
+          ],
+          [
+            24.794216,
+            59.437416
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 306.2,
+        "distance_m": 18.6,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.793688,
+            59.437317
+          ],
+          [
+            24.793678,
+            59.4373
+          ],
+          [
+            24.793665,
+            59.43728
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.933,
+        "avg_speed_kmh": 3.9,
+        "z_std_mg": 266.0,
+        "distance_m": 4.3,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.793644,
+            59.437256
+          ],
+          [
+            24.79362,
+            59.437233
+          ],
+          [
+            24.793585,
+            59.437206
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.944,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 434.9,
+        "distance_m": 6.5,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.793468,
+            59.437153
+          ],
+          [
+            24.793436,
+            59.437138
+          ],
+          [
+            24.793407,
+            59.437122
+          ],
+          [
+            24.793371,
+            59.43711
+          ],
+          [
+            24.793333,
+            59.4371
+          ],
+          [
+            24.793282,
+            59.43708
+          ],
+          [
+            24.793228,
+            59.437065
+          ],
+          [
+            24.793177,
+            59.437046
+          ],
+          [
+            24.793133,
+            59.43703
+          ],
+          [
+            24.793093,
+            59.437016
+          ],
+          [
+            24.793055,
+            59.436996
+          ],
+          [
+            24.79302,
+            59.436985
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.996,
+        "avg_speed_kmh": 3.4,
+        "z_std_mg": 315.0,
+        "distance_m": 31.7,
+        "sample_count": 12,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.792881,
+            59.436935
+          ],
+          [
+            24.79286,
+            59.436928
+          ],
+          [
+            24.792828,
+            59.43691
+          ],
+          [
+            24.792793,
+            59.43689
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.951,
+        "avg_speed_kmh": 3.8,
+        "z_std_mg": 330.2,
+        "distance_m": 7.1,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.792753,
+            59.436867
+          ],
+          [
+            24.79271,
+            59.436844
+          ],
+          [
+            24.792662,
+            59.43682
+          ],
+          [
+            24.792625,
+            59.436794
+          ],
+          [
+            24.792593,
+            59.436768
+          ],
+          [
+            24.792562,
+            59.436737
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.3,
+        "z_std_mg": 491.3,
+        "distance_m": 18.2,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.792406,
+            59.436523
+          ],
+          [
+            24.792395,
+            59.436493
+          ],
+          [
+            24.79239,
+            59.436466
+          ],
+          [
+            24.792385,
+            59.436436
+          ],
+          [
+            24.792377,
+            59.4364
+          ],
+          [
+            24.792372,
+            59.436367
+          ],
+          [
+            24.792364,
+            59.436333
+          ],
+          [
+            24.79235,
+            59.4363
+          ],
+          [
+            24.792334,
+            59.43627
+          ],
+          [
+            24.792315,
+            59.43624
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.4,
+        "z_std_mg": 464.6,
+        "distance_m": 32.0,
+        "sample_count": 10,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.792183,
+            59.436108
+          ],
+          [
+            24.79216,
+            59.43609
+          ],
+          [
+            24.792133,
+            59.436077
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 2.7,
+        "z_std_mg": 245.0,
+        "distance_m": 4.5,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.792112,
+            59.43606
+          ],
+          [
+            24.792093,
+            59.43607
+          ],
+          [
+            24.79208,
+            59.436073
+          ],
+          [
+            24.792067,
+            59.436077
+          ],
+          [
+            24.79205,
+            59.43608
+          ],
+          [
+            24.792034,
+            59.43608
+          ],
+          [
+            24.792017,
+            59.43608
+          ],
+          [
+            24.792,
+            59.436073
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.1,
+        "z_std_mg": 318.2,
+        "distance_m": 7.3,
+        "sample_count": 8,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.792,
+            59.436073
+          ],
+          [
+            24.791965,
+            59.43606
+          ],
+          [
+            24.79195,
+            59.436054
+          ],
+          [
+            24.79195,
+            59.436054
+          ],
+          [
+            24.791918,
+            59.43604
+          ],
+          [
+            24.791899,
+            59.43603
+          ],
+          [
+            24.791882,
+            59.436024
+          ],
+          [
+            24.791864,
+            59.436016
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.6,
+        "z_std_mg": 543.3,
+        "distance_m": 10.0,
+        "sample_count": 8,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.791847,
+            59.436012
+          ],
+          [
+            24.791832,
+            59.436005
+          ],
+          [
+            24.791832,
+            59.436005
+          ],
+          [
+            24.79178,
+            59.435986
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.776,
+        "avg_speed_kmh": 1.5,
+        "z_std_mg": 336.3,
+        "distance_m": 4.8,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.791763,
+            59.435978
+          ],
+          [
+            24.791727,
+            59.435963
+          ],
+          [
+            24.791727,
+            59.435963
+          ],
+          [
+            24.79169,
+            59.435947
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.4,
+        "z_std_mg": 482.1,
+        "distance_m": 5.4,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.791672,
+            59.435944
+          ],
+          [
+            24.791653,
+            59.43594
+          ],
+          [
+            24.791634,
+            59.435932
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.5,
+        "z_std_mg": 312.2,
+        "distance_m": 2.6,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.791517,
+            59.435905
+          ],
+          [
+            24.791496,
+            59.4359
+          ],
+          [
+            24.791475,
+            59.4359
+          ],
+          [
+            24.791456,
+            59.435898
+          ],
+          [
+            24.791395,
+            59.435886
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.3,
+        "z_std_mg": 126.4,
+        "distance_m": 7.3,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.791246,
+            59.435844
+          ],
+          [
+            24.79123,
+            59.43584
+          ],
+          [
+            24.791214,
+            59.435833
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.3,
+        "z_std_mg": 141.8,
+        "distance_m": 2.2,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79114,
+            59.435818
+          ],
+          [
+            24.79112,
+            59.435818
+          ],
+          [
+            24.79112,
+            59.435818
+          ],
+          [
+            24.791077,
+            59.435806
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.3,
+        "z_std_mg": 172.6,
+        "distance_m": 3.9,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.790998,
+            59.435795
+          ],
+          [
+            24.790977,
+            59.43579
+          ],
+          [
+            24.790956,
+            59.43579
+          ],
+          [
+            24.790932,
+            59.435787
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.5,
+        "z_std_mg": 151.6,
+        "distance_m": 3.9,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.79091,
+            59.435783
+          ],
+          [
+            24.79091,
+            59.435783
+          ],
+          [
+            24.79087,
+            59.435772
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.5,
+        "z_std_mg": 281.0,
+        "distance_m": 2.6,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.790852,
+            59.43577
+          ],
+          [
+            24.790833,
+            59.43576
+          ],
+          [
+            24.790813,
+            59.435753
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.786,
+        "avg_speed_kmh": 1.7,
+        "z_std_mg": 166.1,
+        "distance_m": 2.9,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.790796,
+            59.435745
+          ],
+          [
+            24.790796,
+            59.435745
+          ],
+          [
+            24.790756,
+            59.435726
+          ],
+          [
+            24.790756,
+            59.435726
+          ],
+          [
+            24.790716,
+            59.435715
+          ],
+          [
+            24.790697,
+            59.435707
+          ],
+          [
+            24.790678,
+            59.435703
+          ],
+          [
+            24.790663,
+            59.4357
+          ],
+          [
+            24.790644,
+            59.4357
+          ],
+          [
+            24.790628,
+            59.43569
+          ],
+          [
+            24.790615,
+            59.435688
+          ],
+          [
+            24.790598,
+            59.435684
+          ],
+          [
+            24.790579,
+            59.435684
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.4,
+        "z_std_mg": 703.0,
+        "distance_m": 14.5,
+        "sample_count": 13,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.790392,
+            59.43558
+          ],
+          [
+            24.790377,
+            59.435574
+          ],
+          [
+            24.790363,
+            59.43557
+          ],
+          [
+            24.790344,
+            59.435566
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.3,
+        "z_std_mg": 586.2,
+        "distance_m": 3.1,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.790333,
+            59.435562
+          ],
+          [
+            24.790321,
+            59.43556
+          ],
+          [
+            24.79031,
+            59.43555
+          ],
+          [
+            24.79029,
+            59.43554
+          ],
+          [
+            24.79028,
+            59.43553
+          ],
+          [
+            24.79027,
+            59.435528
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.2,
+        "z_std_mg": 267.3,
+        "distance_m": 5.4,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.790266,
+            59.43544
+          ],
+          [
+            24.790249,
+            59.435436
+          ],
+          [
+            24.790232,
+            59.435436
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.777,
+        "avg_speed_kmh": 1.2,
+        "z_std_mg": 116.3,
+        "distance_m": 2.0,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.790121,
+            59.4354
+          ],
+          [
+            24.7901,
+            59.43539
+          ],
+          [
+            24.790081,
+            59.435383
+          ],
+          [
+            24.790064,
+            59.43538
+          ],
+          [
+            24.790049,
+            59.435375
+          ],
+          [
+            24.79003,
+            59.435364
+          ],
+          [
+            24.790014,
+            59.435356
+          ],
+          [
+            24.789997,
+            59.43535
+          ],
+          [
+            24.78998,
+            59.43534
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.4,
+        "z_std_mg": 282.9,
+        "distance_m": 10.5,
+        "sample_count": 9,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.78982,
+            59.435276
+          ],
+          [
+            24.789778,
+            59.435257
+          ],
+          [
+            24.789734,
+            59.435238
+          ],
+          [
+            24.789696,
+            59.435223
+          ],
+          [
+            24.789663,
+            59.435207
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.6,
+        "z_std_mg": 516.0,
+        "distance_m": 11.7,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.789364,
+            59.43509
+          ],
+          [
+            24.789295,
+            59.435074
+          ],
+          [
+            24.789268,
+            59.435066
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.867,
+        "avg_speed_kmh": 2.0,
+        "z_std_mg": 237.7,
+        "distance_m": 6.1,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.789242,
+            59.435062
+          ],
+          [
+            24.789207,
+            59.435062
+          ],
+          [
+            24.789177,
+            59.435055
+          ],
+          [
+            24.789145,
+            59.435047
+          ],
+          [
+            24.789114,
+            59.435047
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.92,
+        "avg_speed_kmh": 1.9,
+        "z_std_mg": 143.9,
+        "distance_m": 7.6,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.78904,
+            59.435043
+          ],
+          [
+            24.789019,
+            59.435047
+          ],
+          [
+            24.788994,
+            59.435047
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.867,
+        "avg_speed_kmh": 1.7,
+        "z_std_mg": 291.5,
+        "distance_m": 2.7,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.788433,
+            59.43503
+          ],
+          [
+            24.788372,
+            59.435028
+          ],
+          [
+            24.788313,
+            59.43502
+          ],
+          [
+            24.788254,
+            59.435017
+          ],
+          [
+            24.788198,
+            59.43501
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.981,
+        "avg_speed_kmh": 4.0,
+        "z_std_mg": 466.3,
+        "distance_m": 13.5,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.787779,
+            59.434982
+          ],
+          [
+            24.787685,
+            59.43498
+          ],
+          [
+            24.787643,
+            59.43498
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.999,
+        "avg_speed_kmh": 2.9,
+        "z_std_mg": 436.8,
+        "distance_m": 7.7,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.787598,
+            59.434975
+          ],
+          [
+            24.787554,
+            59.434975
+          ],
+          [
+            24.787512,
+            59.43498
+          ],
+          [
+            24.787472,
+            59.43498
+          ],
+          [
+            24.787441,
+            59.434975
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 2.7,
+        "z_std_mg": 293.4,
+        "distance_m": 9.0,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.787249,
+            59.434883
+          ],
+          [
+            24.787226,
+            59.434868
+          ],
+          [
+            24.787203,
+            59.43485
+          ],
+          [
+            24.787176,
+            59.434834
+          ],
+          [
+            24.787119,
+            59.434795
+          ],
+          [
+            24.787094,
+            59.434776
+          ],
+          [
+            24.787066,
+            59.434757
+          ],
+          [
+            24.787039,
+            59.43474
+          ],
+          [
+            24.787014,
+            59.43472
+          ],
+          [
+            24.786993,
+            59.434704
+          ],
+          [
+            24.786972,
+            59.43469
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.981,
+        "avg_speed_kmh": 3.0,
+        "z_std_mg": 156.6,
+        "distance_m": 26.6,
+        "sample_count": 11,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.786879,
+            59.434597
+          ],
+          [
+            24.786901,
+            59.434616
+          ],
+          [
+            24.786932,
+            59.434635
+          ],
+          [
+            24.786976,
+            59.434666
+          ],
+          [
+            24.78703,
+            59.434696
+          ],
+          [
+            24.787085,
+            59.43473
+          ],
+          [
+            24.787132,
+            59.43476
+          ],
+          [
+            24.787176,
+            59.43479
+          ],
+          [
+            24.787218,
+            59.43482
+          ],
+          [
+            24.787258,
+            59.434845
+          ],
+          [
+            24.787296,
+            59.43487
+          ],
+          [
+            24.787329,
+            59.4349
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.926,
+        "avg_speed_kmh": 4.9,
+        "z_std_mg": 235.5,
+        "distance_m": 42.3,
+        "sample_count": 12,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.787258,
+            59.435013
+          ],
+          [
+            24.787205,
+            59.435036
+          ],
+          [
+            24.78714,
+            59.435055
+          ],
+          [
+            24.78707,
+            59.435074
+          ],
+          [
+            24.786997,
+            59.435097
+          ],
+          [
+            24.786932,
+            59.435116
+          ],
+          [
+            24.786871,
+            59.435135
+          ],
+          [
+            24.786806,
+            59.435154
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.9,
+        "z_std_mg": 258.0,
+        "distance_m": 30.0,
+        "sample_count": 8,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.786478,
+            59.43525
+          ],
+          [
+            24.78643,
+            59.43526
+          ],
+          [
+            24.786337,
+            59.43528
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.3,
+        "z_std_mg": 283.7,
+        "distance_m": 8.6,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.786205,
+            59.43532
+          ],
+          [
+            24.786154,
+            59.435337
+          ],
+          [
+            24.786106,
+            59.435352
+          ],
+          [
+            24.786057,
+            59.435368
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.9,
+        "z_std_mg": 170.5,
+        "distance_m": 9.9,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.785769,
+            59.43544
+          ],
+          [
+            24.785727,
+            59.43545
+          ],
+          [
+            24.785686,
+            59.435467
+          ],
+          [
+            24.785606,
+            59.435497
+          ],
+          [
+            24.785563,
+            59.43551
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.7,
+        "z_std_mg": 251.6,
+        "distance_m": 14.1,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.785242,
+            59.435608
+          ],
+          [
+            24.785217,
+            59.435616
+          ],
+          [
+            24.785196,
+            59.435623
+          ],
+          [
+            24.785175,
+            59.43563
+          ],
+          [
+            24.785154,
+            59.43564
+          ],
+          [
+            24.785133,
+            59.435642
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.6,
+        "z_std_mg": 481.7,
+        "distance_m": 7.3,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.785093,
+            59.435654
+          ],
+          [
+            24.785074,
+            59.43566
+          ],
+          [
+            24.785057,
+            59.43567
+          ],
+          [
+            24.785042,
+            59.435677
+          ],
+          [
+            24.785027,
+            59.43568
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "very_bad",
+        "wheelchair_confidence": 0.8,
+        "avg_speed_kmh": 1.4,
+        "z_std_mg": 520.3,
+        "distance_m": 4.8,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.784985,
+            59.43569
+          ],
+          [
+            24.784967,
+            59.435696
+          ],
+          [
+            24.784946,
+            59.435703
+          ],
+          [
+            24.784922,
+            59.435707
+          ],
+          [
+            24.784887,
+            59.43572
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.96,
+        "avg_speed_kmh": 2.5,
+        "z_std_mg": 243.0,
+        "distance_m": 6.5,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.784676,
+            59.435844
+          ],
+          [
+            24.78465,
+            59.435867
+          ],
+          [
+            24.784628,
+            59.43589
+          ],
+          [
+            24.784603,
+            59.435936
+          ],
+          [
+            24.784597,
+            59.435955
+          ],
+          [
+            24.784594,
+            59.435978
+          ],
+          [
+            24.78459,
+            59.435997
+          ],
+          [
+            24.784584,
+            59.436016
+          ],
+          [
+            24.78458,
+            59.43604
+          ],
+          [
+            24.784576,
+            59.436058
+          ],
+          [
+            24.784578,
+            59.436085
+          ],
+          [
+            24.784584,
+            59.436108
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.1,
+        "z_std_mg": 298.0,
+        "distance_m": 30.3,
+        "sample_count": 12,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.784601,
+            59.436157
+          ],
+          [
+            24.784603,
+            59.43618
+          ],
+          [
+            24.784609,
+            59.4362
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.933,
+        "avg_speed_kmh": 2.5,
+        "z_std_mg": 281.4,
+        "distance_m": 4.8,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.7846,
+            59.43625
+          ],
+          [
+            24.78461,
+            59.43627
+          ],
+          [
+            24.78463,
+            59.4363
+          ],
+          [
+            24.78465,
+            59.436325
+          ],
+          [
+            24.784666,
+            59.436348
+          ],
+          [
+            24.784681,
+            59.43637
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.8,
+        "z_std_mg": 305.3,
+        "distance_m": 14.1,
+        "sample_count": 6,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.784718,
+            59.436424
+          ],
+          [
+            24.784737,
+            59.43645
+          ],
+          [
+            24.78476,
+            59.43648
+          ],
+          [
+            24.784796,
+            59.436512
+          ],
+          [
+            24.78484,
+            59.43654
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 4.5,
+        "z_std_mg": 275.8,
+        "distance_m": 14.7,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.784952,
+            59.436596
+          ],
+          [
+            24.785017,
+            59.436623
+          ],
+          [
+            24.785078,
+            59.436646
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 5.0,
+        "z_std_mg": 257.9,
+        "distance_m": 9.0,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.785336,
+            59.43676
+          ],
+          [
+            24.785389,
+            59.43678
+          ],
+          [
+            24.785442,
+            59.436802
+          ],
+          [
+            24.785494,
+            59.436825
+          ],
+          [
+            24.785551,
+            59.436848
+          ],
+          [
+            24.785603,
+            59.436867
+          ],
+          [
+            24.785646,
+            59.436886
+          ],
+          [
+            24.785679,
+            59.436905
+          ],
+          [
+            24.785742,
+            59.43693
+          ],
+          [
+            24.785778,
+            59.436943
+          ],
+          [
+            24.785816,
+            59.43696
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "bad",
+        "wheelchair_confidence": 0.982,
+        "avg_speed_kmh": 3.9,
+        "z_std_mg": 319.3,
+        "distance_m": 35.1,
+        "sample_count": 11,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.785828,
+            59.437046
+          ],
+          [
+            24.785725,
+            59.43708
+          ],
+          [
+            24.78565,
+            59.4371
+          ],
+          [
+            24.785574,
+            59.437115
+          ],
+          [
+            24.785501,
+            59.437134
+          ],
+          [
+            24.78543,
+            59.437153
+          ],
+          [
+            24.78536,
+            59.43717
+          ],
+          [
+            24.785288,
+            59.437187
+          ],
+          [
+            24.785217,
+            59.4372
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 5.4,
+        "z_std_mg": 155.0,
+        "distance_m": 38.7,
+        "sample_count": 9,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.784864,
+            59.437263
+          ],
+          [
+            24.784786,
+            59.437283
+          ],
+          [
+            24.784712,
+            59.4373
+          ],
+          [
+            24.784664,
+            59.43729
+          ],
+          [
+            24.784569,
+            59.437347
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.94,
+        "avg_speed_kmh": 5.3,
+        "z_std_mg": 120.3,
+        "distance_m": 20.8,
+        "sample_count": 5,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.784506,
+            59.437363
+          ],
+          [
+            24.784449,
+            59.43738
+          ],
+          [
+            24.784397,
+            59.437393
+          ],
+          [
+            24.784357,
+            59.4374
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "good",
+        "wheelchair_confidence": 1.0,
+        "avg_speed_kmh": 3.2,
+        "z_std_mg": 77.9,
+        "distance_m": 9.4,
+        "sample_count": 4,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.784279,
+            59.437424
+          ],
+          [
+            24.784248,
+            59.43743
+          ],
+          [
+            24.784199,
+            59.437435
+          ]
+        ]
+      },
+      "properties": {
+        "smoothness": "intermediate",
+        "wheelchair_confidence": 0.867,
+        "avg_speed_kmh": 1.6,
+        "z_std_mg": 152.2,
+        "distance_m": 4.7,
+        "sample_count": 3,
+        "data_source": "bolt_escooter_accelerometer",
+        "collection_date": "2025-05-26",
+        "osm_ready": true
+      }
+    }
+  ],
+  "metadata": {
+    "title": "wheelchair accessibility - surface smoothness",
+    "description": "osm smoothness tags derived from e-scooter accelerometer data",
+    "collection_date": "2025-05-26",
+    "total_segments": 172,
+    "total_distance_m": 2375.4,
+    "confidence_threshold": 0.7,
+    "data_source": "bolt e-scooter telemetry",
+    "analysis_method": "z-axis accelerometer standard deviation",
+    "coordinate_system": "wgs84"
+  }
+}
