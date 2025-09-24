@@ -5,7 +5,9 @@ description: "Key attributes for wheelchair accessibility on OpenStreetMaps"
 
 # Attributes on OpenStreetMaps
 
-### ⭐ Key: [Smoothness](https://wiki.openstreetmap.org/wiki/Key:smoothness) (field)
+### ⭐ Key: Smoothness (field)
+
+**Reference:** [Smoothness on OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Key:smoothness)
 
 > Physical usability of a way for wheeled vehicles, particularly regarding surface regularity/flatness
 > 
@@ -32,7 +34,9 @@ description: "Key attributes for wheelchair accessibility on OpenStreetMaps"
     ![image.png](Attributes_on_OpenStreetMaps/image_1.png)
     
 
-### Key: [Wheelchair](https://wiki.openstreetmap.org/wiki/Key:wheelchair) (tag)
+### Key: Wheelchair (tag)
+
+**Reference:** [Wheelchair on OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Key:wheelchair)
 
 > ways that are suitable to be used with a wheelchair and a person with a disability who uses another mobility device (like a walker)
 > 
@@ -57,7 +61,9 @@ description: "Key attributes for wheelchair accessibility on OpenStreetMaps"
     ![image.png](Attributes_on_OpenStreetMaps/image_3.png)
     
 
-### Key: [Ramp](https://wiki.openstreetmap.org/wiki/Key:ramp#Ramp_types) (tag)
+### Key: Ramp (tag)
+
+**Reference:** [Ramp on OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Key:ramp#Ramp_types)
 
 > whether or not there is a ramp available
 > 
@@ -88,7 +94,9 @@ description: "Key attributes for wheelchair accessibility on OpenStreetMaps"
     ![image.png](Attributes_on_OpenStreetMaps/image_7.png)
     
 
-### Key: [Surface](https://wiki.openstreetmap.org/wiki/Key:surface) (field)
+### Key: Surface (field)
+
+**Reference:** [Surface on OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Key:surface)
 
 > Physical `surface`, material composition and/or structure
 > 
@@ -153,7 +161,9 @@ description: "Key attributes for wheelchair accessibility on OpenStreetMaps"
     ![image.png](Attributes_on_OpenStreetMaps/image_9.png)
     
 
-### Key: [Barrier](https://wiki.openstreetmap.org/wiki/Key:barrier) (tag)
+### Key: Barrier (tag)
+
+**Reference:** [Barrier on OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Key:barrier)
 
 > physical structure which blocks or impedes movement
 > 
@@ -239,7 +249,9 @@ description: "Key attributes for wheelchair accessibility on OpenStreetMaps"
     ![image.png](Attributes_on_OpenStreetMaps/image_11.png)
     
 
-### Key: [Incline](https://wiki.openstreetmap.org/wiki/Key:incline) (field)
+### Key: Incline (field)
+
+**Reference:** [Incline on OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Key:incline)
 
 > Way’s grade, slope, incline
 > 
@@ -273,7 +285,9 @@ description: "Key attributes for wheelchair accessibility on OpenStreetMaps"
     ![image.png](Attributes_on_OpenStreetMaps/image_14.png)
     
 
-### Key: [Access](https://wiki.openstreetmap.org/wiki/Key:access) (tag)
+### Key: Access (tag)
+
+**Reference:** [Access on OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Key:access)
 
 > blanket (primarily, legal) permission for all modes of transport
 > 
@@ -309,7 +323,9 @@ description: "Key attributes for wheelchair accessibility on OpenStreetMaps"
     ![image.png](Attributes_on_OpenStreetMaps/image_16.png)
     
 
-### Key: [Foot](https://wiki.openstreetmap.org/wiki/Key:foot) (tag)
+### Key: Foot (tag)
+
+**Reference:** [Foot on OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/Key:foot)
 
 > indicates if it is physically possible for a pedestrian to pass
 > 

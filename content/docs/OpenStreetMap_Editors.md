@@ -16,7 +16,9 @@ description: "Guide to OpenStreetMap editing tools and applications"
     ![image.png](OpenStreetMap_Editors/image.png)
     
 
-### Rapid - [iD’s](https://www.notion.so/wheels4wheels-for-HoC-24ece885100180e4a9cbc23fb2f4c19d?pvs=21) fork
+### Rapid - iD's fork
+
+**Reference:** [iD Editor](https://www.notion.so/wheels4wheels-for-HoC-24ece885100180e4a9cbc23fb2f4c19d?pvs=21)
 
 [Rapid Editor](https://rapideditor.org/)
 
