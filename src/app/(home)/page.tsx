@@ -1,133 +1,177 @@
-import Link from 'next/link';
-import MapboxMap from '@/components/MapboxMap';
+import Link from "next/link";
+import { Button } from "@/components/ui/button";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { Container } from "@/components/ui/container";
+import { Section } from "@/components/ui/section";
+import {
+  TypographyH1,
+  TypographyH2,
+  TypographyH3,
+  TypographyLead,
+  TypographyMuted,
+} from "@/components/ui/typography";
+// import MapboxMap from '@/components/MapboxMap';
 
 export default function HomePage() {
   return (
     <main className="min-h-screen">
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-br from-blue-50 to-indigo-100 py-20">
-        <div className="container mx-auto px-6 text-center">
-          <h1 className="text-5xl font-bold text-gray-900 mb-6">
+      <Section variant="hero">
+        <Container className="text-center">
+          <TypographyH1 className="mb-6 text-gray-900">
             Wheels4Wheels
-          </h1>
-          <p className="text-xl text-gray-700 mb-8 max-w-3xl mx-auto">
-            Mapping wheelchair accessibility through data-driven insights and community collaboration. 
-            Join us in creating a more inclusive world, one route at a time.
-          </p>
+          </TypographyH1>
+          <TypographyLead className="mb-8 max-w-3xl mx-auto text-gray-700">
+            Mapping wheelchair accessibility through data-driven insights and
+            community collaboration. Join us in creating a more inclusive world,
+            one route at a time.
+          </TypographyLead>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              href="/docs"
-              className="bg-blue-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
-            >
-              Explore the Research
-            </Link>
-            <Link
-              href="/docs/Photo-Telemetry_File_Correlation"
-              className="border-2 border-blue-600 text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
-            >
-              View Interactive Map
-            </Link>
+            <Button asChild size="lg" className="px-8">
+              <Link href="/docs">Explore the Research</Link>
+            </Button>
+            <Button asChild variant="outline" size="lg" className="px-8">
+              <Link href="/docs/Photo-Telemetry_File_Correlation">
+                View Interactive Map
+              </Link>
+            </Button>
           </div>
-        </div>
-      </section>
+        </Container>
+      </Section>
 
       {/* Interactive Map Section */}
-      <section className="py-16 bg-white">
-        <div className="container mx-auto px-6">
-          <h2 className="text-3xl font-bold text-center mb-8 text-gray-900">
+      <Section variant="map">
+        <Container>
+          <TypographyH2 className="text-center mb-8 text-gray-900">
             Accessibility in Action
-          </h2>
-          <div className="bg-gray-100 rounded-xl p-4 shadow-lg">
-            <MapboxMap className="rounded-lg" />
-          </div>
-          <p className="text-center text-gray-600 mt-4 max-w-2xl mx-auto">
-            Our interactive map shows wheelchair accessibility data collected through 
-            photo-telemetry correlation and surface smoothness analysis.
-          </p>
-        </div>
-      </section>
+          </TypographyH2>
+          <Card className="p-4">
+            <div className="h-96 bg-gray-200 rounded-lg flex items-center justify-center">
+              <div className="text-center">
+                <TypographyH3 className="mb-2 text-gray-700">
+                  Interactive Map
+                </TypographyH3>
+                <TypographyMuted className="text-gray-600">
+                  Map temporarily disabled for build testing
+                </TypographyMuted>
+              </div>
+            </div>
+          </Card>
+          <TypographyMuted className="text-center mt-4 max-w-2xl mx-auto text-gray-600">
+            Our interactive map shows wheelchair accessibility data collected
+            through photo-telemetry correlation and surface smoothness analysis.
+          </TypographyMuted>
+        </Container>
+      </Section>
 
       {/* Research Highlights */}
-      <section className="py-16 bg-gray-50">
-        <div className="container mx-auto px-6">
-          <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">
+      <Section variant="highlights">
+        <Container>
+          <TypographyH2 className="text-center mb-12 text-gray-900">
             Research Highlights
-          </h2>
+          </TypographyH2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            <div className="bg-white p-6 rounded-xl shadow-md">
-              <h3 className="text-xl font-semibold mb-3 text-gray-900">
-                OpenStreetMap Integration
-              </h3>
-              <p className="text-gray-600 mb-4">
-                Leveraging OpenStreetMap data to identify and map wheelchair accessibility attributes.
-              </p>
-              <Link
-                href="/docs/Attributes_on_OpenStreetMaps"
-                className="text-blue-600 font-semibold hover:underline"
-              >
-                Learn More →
-              </Link>
-            </div>
+            <Card>
+              <CardHeader>
+                <CardTitle>OpenStreetMap Integration</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <CardDescription className="mb-4">
+                  Leveraging OpenStreetMap data to identify and map wheelchair
+                  accessibility attributes.
+                </CardDescription>
+                <Button
+                  asChild
+                  variant="link"
+                  className="p-0 h-auto text-blue-600 font-semibold"
+                >
+                  <Link href="/docs/Attributes_on_OpenStreetMaps">
+                    Learn More →
+                  </Link>
+                </Button>
+              </CardContent>
+            </Card>
 
-            <div className="bg-white p-6 rounded-xl shadow-md">
-              <h3 className="text-xl font-semibold mb-3 text-gray-900">
-                Surface Analysis
-              </h3>
-              <p className="text-gray-600 mb-4">
-                Advanced analysis of surface smoothness to identify wheelchair-friendly routes.
-              </p>
-              <Link
-                href="/docs/Surface_Smoothness_Analysis"
-                className="text-blue-600 font-semibold hover:underline"
-              >
-                Learn More →
-              </Link>
-            </div>
+            <Card>
+              <CardHeader>
+                <CardTitle>Surface Analysis</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <CardDescription className="mb-4">
+                  Advanced analysis of surface smoothness to identify
+                  wheelchair-friendly routes.
+                </CardDescription>
+                <Button
+                  asChild
+                  variant="link"
+                  className="p-0 h-auto text-blue-600 font-semibold"
+                >
+                  <Link href="/docs/Surface_Smoothness_Analysis">
+                    Learn More →
+                  </Link>
+                </Button>
+              </CardContent>
+            </Card>
 
-            <div className="bg-white p-6 rounded-xl shadow-md">
-              <h3 className="text-xl font-semibold mb-3 text-gray-900">
-                Photo-Telemetry Correlation
-              </h3>
-              <p className="text-gray-600 mb-4">
-                Correlating visual data with telemetry to create comprehensive accessibility maps.
-              </p>
-              <Link
-                href="/docs/Photo-Telemetry_File_Correlation"
-                className="text-blue-600 font-semibold hover:underline"
-              >
-                Learn More →
-              </Link>
-            </div>
+            <Card>
+              <CardHeader>
+                <CardTitle>Photo-Telemetry Correlation</CardTitle>
+              </CardHeader>
+              <CardContent>
+                <CardDescription className="mb-4">
+                  Correlating visual data with telemetry to create comprehensive
+                  accessibility maps.
+                </CardDescription>
+                <Button
+                  asChild
+                  variant="link"
+                  className="p-0 h-auto text-blue-600 font-semibold"
+                >
+                  <Link href="/docs/Photo-Telemetry_File_Correlation">
+                    Learn More →
+                  </Link>
+                </Button>
+              </CardContent>
+            </Card>
           </div>
-        </div>
-      </section>
+        </Container>
+      </Section>
 
       {/* Call to Action */}
-      <section className="py-16 bg-blue-600 text-white">
-        <div className="container mx-auto px-6 text-center">
-          <h2 className="text-3xl font-bold mb-6">
+      <Section variant="cta">
+        <Container className="text-center">
+          <TypographyH2 className="mb-6 text-white">
             Join the Movement
-          </h2>
-          <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-            Help us build a comprehensive database of wheelchair accessibility 
+          </TypographyH2>
+          <TypographyLead className="mb-8 max-w-2xl mx-auto opacity-90 text-white">
+            Help us build a comprehensive database of wheelchair accessibility
             information for communities worldwide.
-          </p>
+          </TypographyLead>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link
-              href="/docs/wheels4wheels_for_HoC"
-              className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition-colors"
+            <Button
+              asChild
+              size="lg"
+              className="px-8 bg-white text-blue-600 hover:bg-gray-100"
             >
-              Get Involved
-            </Link>
-            <Link
-              href="/docs"
-              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-blue-600 transition-colors"
+              <Link href="/docs/wheels4wheels_for_HoC">Get Involved</Link>
+            </Button>
+            <Button
+              asChild
+              variant="outline"
+              size="lg"
+              className="px-8 border-white text-white hover:bg-white hover:text-blue-600"
             >
-              Read Documentation
-            </Link>
+              <Link href="/docs">Read Documentation</Link>
+            </Button>
           </div>
-        </div>
-      </section>
+        </Container>
+      </Section>
     </main>
   );
 }
