@@ -17,10 +17,13 @@ import {
 } from "@/components/ui/typography";
 import MapboxMap from '@/components/MapboxMap';
 import Footer from '@/components/Footer';
+import { HomeLayout } from "fumadocs-ui/layouts/home";
+import { baseOptions } from "@/lib/layout.shared";
 
 export default function HomePage() {
   return (
-    <main className="min-h-screen">
+    <HomeLayout {...baseOptions()}>
+      <main className="min-h-screen">
       {/* Hero Section with Fumadocs-style gradient */}
       <section className="relative py-24 lg:py-32">
         <div className="absolute inset-0 fumadocs-gradient opacity-20" />
@@ -163,6 +166,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <Footer />
-    </main>
+      </main>
+    </HomeLayout>
   );
 }
