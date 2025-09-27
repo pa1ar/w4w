@@ -8,7 +8,6 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Container } from "@/components/ui/container";
-import { Section } from "@/components/ui/section";
 import {
   TypographyH1,
   TypographyH2,
@@ -16,70 +15,67 @@ import {
   TypographyLead,
   TypographyMuted,
 } from "@/components/ui/typography";
-// import MapboxMap from '@/components/MapboxMap';
+import MapboxMap from '@/components/MapboxMap';
 
 export default function HomePage() {
   return (
     <main className="min-h-screen">
-      {/* Hero Section */}
-      <Section variant="hero">
-        <Container className="text-center">
-          <TypographyH1 className="mb-6 text-gray-900">
-            Wheels4Wheels
+      {/* Hero Section with Fumadocs-style gradient */}
+      <section className="relative py-24 lg:py-32">
+        <div className="absolute inset-0 fumadocs-gradient opacity-20" />
+        <Container className="relative text-center">
+          <TypographyH1 className="mb-6 text-foreground text-4xl lg:text-6xl font-bold">
+            Build excellent accessibility maps with less effort
           </TypographyH1>
-          <TypographyLead className="mb-8 max-w-3xl mx-auto text-gray-700">
+          <TypographyLead className="mb-8 max-w-3xl mx-auto text-muted-foreground text-lg">
             Mapping wheelchair accessibility through data-driven insights and
             community collaboration. Join us in creating a more inclusive world,
             one route at a time.
           </TypographyLead>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button asChild size="lg" className="px-8">
+            <Button asChild size="lg">
               <Link href="/docs">Explore the Research</Link>
             </Button>
-            <Button asChild variant="outline" size="lg" className="px-8">
+            <Button asChild variant="outline" size="lg">
               <Link href="/docs/Photo-Telemetry_File_Correlation">
                 View Interactive Map
               </Link>
             </Button>
           </div>
         </Container>
-      </Section>
+      </section>
 
-      {/* Interactive Map Section */}
-      <Section variant="map">
+      {/* Interactive Map Section - Fumadocs-style container */}
+      <section className="py-16 lg:py-24">
         <Container>
-          <TypographyH2 className="text-center mb-8 text-gray-900">
-            Accessibility in Action
-          </TypographyH2>
-          <Card className="p-4">
-            <div className="h-96 bg-gray-200 rounded-lg flex items-center justify-center">
-              <div className="text-center">
-                <TypographyH3 className="mb-2 text-gray-700">
-                  Interactive Map
-                </TypographyH3>
-                <TypographyMuted className="text-gray-600">
-                  Map temporarily disabled for build testing
-                </TypographyMuted>
+          <div className="relative">
+            <div className="absolute inset-0 bg-card rounded-2xl shadow-lg" />
+            <div className="relative p-8">
+              <TypographyH2 className="text-center mb-8 text-foreground">
+                Accessibility in Action
+              </TypographyH2>
+              <div className="rounded-xl overflow-hidden shadow-lg">
+                <MapboxMap className="h-[500px] lg:h-[600px]" />
               </div>
+              <TypographyMuted className="text-center mt-6 max-w-2xl mx-auto">
+                Our interactive map shows wheelchair accessibility data collected
+                through photo-telemetry correlation and surface smoothness analysis.
+              </TypographyMuted>
             </div>
-          </Card>
-          <TypographyMuted className="text-center mt-4 max-w-2xl mx-auto text-gray-600">
-            Our interactive map shows wheelchair accessibility data collected
-            through photo-telemetry correlation and surface smoothness analysis.
-          </TypographyMuted>
+          </div>
         </Container>
-      </Section>
+      </section>
 
-      {/* Research Highlights */}
-      <Section variant="highlights">
+      {/* Research Highlights - Minimal design */}
+      <section className="py-16 lg:py-24 bg-muted/30">
         <Container>
-          <TypographyH2 className="text-center mb-12 text-gray-900">
+          <TypographyH2 className="text-center mb-12 text-foreground">
             Research Highlights
           </TypographyH2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            <Card>
+            <Card className="border-0 shadow-sm">
               <CardHeader>
-                <CardTitle>OpenStreetMap Integration</CardTitle>
+                <CardTitle className="text-lg">OpenStreetMap Integration</CardTitle>
               </CardHeader>
               <CardContent>
                 <CardDescription className="mb-4">
@@ -89,7 +85,7 @@ export default function HomePage() {
                 <Button
                   asChild
                   variant="link"
-                  className="p-0 h-auto text-blue-600 font-semibold"
+                  className="p-0 h-auto font-medium"
                 >
                   <Link href="/docs/Attributes_on_OpenStreetMaps">
                     Learn More →
@@ -98,9 +94,9 @@ export default function HomePage() {
               </CardContent>
             </Card>
 
-            <Card>
+            <Card className="border-0 shadow-sm">
               <CardHeader>
-                <CardTitle>Surface Analysis</CardTitle>
+                <CardTitle className="text-lg">Surface Analysis</CardTitle>
               </CardHeader>
               <CardContent>
                 <CardDescription className="mb-4">
@@ -110,7 +106,7 @@ export default function HomePage() {
                 <Button
                   asChild
                   variant="link"
-                  className="p-0 h-auto text-blue-600 font-semibold"
+                  className="p-0 h-auto font-medium"
                 >
                   <Link href="/docs/Surface_Smoothness_Analysis">
                     Learn More →
@@ -119,9 +115,9 @@ export default function HomePage() {
               </CardContent>
             </Card>
 
-            <Card>
+            <Card className="border-0 shadow-sm">
               <CardHeader>
-                <CardTitle>Photo-Telemetry Correlation</CardTitle>
+                <CardTitle className="text-lg">Photo-Telemetry Correlation</CardTitle>
               </CardHeader>
               <CardContent>
                 <CardDescription className="mb-4">
@@ -131,7 +127,7 @@ export default function HomePage() {
                 <Button
                   asChild
                   variant="link"
-                  className="p-0 h-auto text-blue-600 font-semibold"
+                  className="p-0 h-auto font-medium"
                 >
                   <Link href="/docs/Photo-Telemetry_File_Correlation">
                     Learn More →
@@ -141,37 +137,28 @@ export default function HomePage() {
             </Card>
           </div>
         </Container>
-      </Section>
+      </section>
 
-      {/* Call to Action */}
-      <Section variant="cta">
+      {/* Call to Action - Minimal design */}
+      <section className="py-16 lg:py-24">
         <Container className="text-center">
-          <TypographyH2 className="mb-6 text-white">
+          <TypographyH2 className="mb-6 text-foreground">
             Join the Movement
           </TypographyH2>
-          <TypographyLead className="mb-8 max-w-2xl mx-auto opacity-90 text-white">
+          <TypographyLead className="mb-8 max-w-2xl mx-auto text-muted-foreground">
             Help us build a comprehensive database of wheelchair accessibility
             information for communities worldwide.
           </TypographyLead>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button
-              asChild
-              size="lg"
-              className="px-8 bg-white text-blue-600 hover:bg-gray-100"
-            >
+            <Button asChild size="lg">
               <Link href="/docs/wheels4wheels_for_HoC">Get Involved</Link>
             </Button>
-            <Button
-              asChild
-              variant="outline"
-              size="lg"
-              className="px-8 border-white text-white hover:bg-white hover:text-blue-600"
-            >
+            <Button asChild variant="outline" size="lg">
               <Link href="/docs">Read Documentation</Link>
             </Button>
           </div>
         </Container>
-      </Section>
+      </section>
     </main>
   );
 }

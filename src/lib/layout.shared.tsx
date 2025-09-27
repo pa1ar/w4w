@@ -22,7 +22,7 @@ export function baseOptions(): BaseLayoutProps {
             <title>Wheels4Wheels Logo</title>
             <circle cx={12} cy={12} r={12} fill="currentColor" />
           </svg>
-          My App
+          Wheels4Wheels
         </>
       ),
     },
