@@ -26,11 +26,12 @@ export default function HomePage() {
         <div className="absolute inset-0 fumadocs-gradient opacity-20" />
         <Container className="relative text-center">
           <TypographyH1 className="mb-6 text-foreground text-4xl lg:text-6xl font-bold">
-           wheels4wheels
+            Build excellent accessibility maps with less effort
           </TypographyH1>
           <TypographyLead className="mb-8 max-w-3xl mx-auto text-muted-foreground text-lg">
             Mapping wheelchair accessibility through data-driven insights and
-            community collaboration.
+            community collaboration. Join us in creating a more inclusive world,
+            one route at a time.
           </TypographyLead>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild size="lg">
