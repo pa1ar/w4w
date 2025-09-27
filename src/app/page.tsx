@@ -29,20 +29,19 @@ export default function HomePage() {
         <div className="absolute inset-0 fumadocs-gradient opacity-20" />
         <Container className="relative text-center">
           <TypographyH1 className="mb-6 text-foreground text-4xl lg:text-6xl font-bold">
-            Build excellent accessibility maps with less effort
+            Wheels4Wheels
           </TypographyH1>
           <TypographyLead className="mb-8 max-w-3xl mx-auto text-muted-foreground text-lg">
             Mapping wheelchair accessibility through data-driven insights and
-            community collaboration. Join us in creating a more inclusive world,
-            one route at a time.
+            community collaboration.
           </TypographyLead>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild size="lg">
-              <Link href="/docs">Explore the Research</Link>
+              <Link href="/docs">How it works</Link>
             </Button>
             <Button asChild variant="outline" size="lg">
               <Link href="#interactive-map">
-                View Interactive Map
+                Interactive Map
               </Link>
             </Button>
           </div>
