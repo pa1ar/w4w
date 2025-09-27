@@ -16,6 +16,7 @@ import {
   TypographyMuted,
 } from "@/components/ui/typography";
 import MapboxMap from '@/components/MapboxMap';
+import Footer from '@/components/Footer';
 
 export default function HomePage() {
   return (
@@ -25,19 +26,18 @@ export default function HomePage() {
         <div className="absolute inset-0 fumadocs-gradient opacity-20" />
         <Container className="relative text-center">
           <TypographyH1 className="mb-6 text-foreground text-4xl lg:text-6xl font-bold">
-            Build excellent accessibility maps with less effort
+           wheels4wheels
           </TypographyH1>
           <TypographyLead className="mb-8 max-w-3xl mx-auto text-muted-foreground text-lg">
             Mapping wheelchair accessibility through data-driven insights and
-            community collaboration. Join us in creating a more inclusive world,
-            one route at a time.
+            community collaboration.
           </TypographyLead>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild size="lg">
               <Link href="/docs">Explore the Research</Link>
             </Button>
             <Button asChild variant="outline" size="lg">
-              <Link href="/docs/Photo-Telemetry_File_Correlation">
+              <Link href="#interactive-map">
                 View Interactive Map
               </Link>
             </Button>
@@ -46,7 +46,7 @@ export default function HomePage() {
       </section>
 
       {/* Interactive Map Section - Fumadocs-style container */}
-      <section className="py-16 lg:py-24">
+      <section id="interactive-map" className="py-16 lg:py-24">
         <Container>
           <div className="relative">
             <div className="absolute inset-0 bg-card rounded-2xl shadow-lg" />
@@ -67,7 +67,7 @@ export default function HomePage() {
       </section>
 
       {/* Research Highlights - Minimal design */}
-      <section className="py-16 lg:py-24 bg-muted/30">
+      <section className="py-16 lg:py-24">
         <Container>
           <TypographyH2 className="text-center mb-12 text-foreground">
             Research Highlights
@@ -151,7 +151,7 @@ export default function HomePage() {
           </TypographyLead>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button asChild size="lg">
-              <Link href="/docs/wheels4wheels_for_HoC">Get Involved</Link>
+              <Link href="/docs/contribute">Get Involved</Link>
             </Button>
             <Button asChild variant="outline" size="lg">
               <Link href="/docs">Read Documentation</Link>
@@ -159,6 +159,9 @@ export default function HomePage() {
           </div>
         </Container>
       </section>
+
+      {/* Footer */}
+      <Footer />
     </main>
   );
 }

@@ -1,0 +1,12 @@
+{
+  "title": "Documentation",
+  "pages": [
+    "index",
+    "Surface_Smoothness_Analysis",
+    "incline_and_curbs",
+    "Attributes_on_OpenStreetMaps",
+    "Photo-Telemetry_File_Correlation",
+    "OpenStreetMap_Editors",
+    "contribute"
+  ]
+}
